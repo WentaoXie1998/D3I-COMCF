@@ -110,6 +110,13 @@ If you have any questions about the code, please contact:
 Wentao Xie
 Email: taobiubiu1998@163.com
 ```
+## License
+
+This repository is released for academic research and non-commercial use only.
+
+The code, processed data, scripts, and supplementary materials in this repository may be used for reproducing the results reported in the paper and for academic research purposes. Commercial use, including but not limited to use in commercial software, commercial services, industrial drug discovery pipelines, paid consulting, or proprietary product development, is not permitted without prior written permission from the authors.
+
+If you would like to use this repository for commercial purposes, please contact Wentao Xie (taobiubiu1998@163.com) to obtain explicit written authorization.
 
 ## Citation
 
