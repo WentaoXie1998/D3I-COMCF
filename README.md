@@ -123,12 +123,13 @@ If you would like to use this repository for commercial purposes, please contact
 If you use this repository or build further research based on the paper **D3I-COMCF: Dissimilarity-driven dual-interaction via co-occurrence motifs and complementary fragments for drug--drug interaction prediction**, please cite our work.
 
 ```bibtex
-@article{xie2026d3icomcf,
-  title={D3I-COMCF: Dissimilarity-driven dual-interaction via co-occurrence motifs and complementary fragments for drug--drug interaction prediction},
-  author={Xie, Wentao and Jin, Min and Yang, Mingjian and Zhou, Yulu and Liu, Xinhua and Li, Meng and Rajapakse, Jagath C.},
+@article{xie2026d3i,
+  title={D3I-COMCF: Dissimilarity-driven dual-interaction via co-occurrence motifs and complementary fragments for drug-drug interaction prediction},
+  author={Xie, Wentao and Jin, Min and Yang, Mingjian and Zhou, Yulu and Liu, Xinhua and Li, Meng and Rajapakse, Jagath C},
   journal={Neural Networks},
+  pages={109328},
   year={2026},
-  note={To appear}
+  publisher={Elsevier}
 }
 ```
 
